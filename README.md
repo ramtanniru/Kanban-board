@@ -15,7 +15,7 @@ This Kanban Board application allows users to create, manage, and track tasks th
 
 ## Live Demo
 
-You can view the live demo of the Kanban application [here](https://your-deployment-link.com).
+You can view the live demo of the Kanban application [here](https://ram-kanban-board.vercel.app).
 
 ## Installation
 
@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/kanban-app.git
+   git clone https://github.com/ramtanniru/Kanban-board
    ```
 
 2. **Navigate to the project directory**:
@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
    npm start
    ```
 
-5. Open your browser and visit `http://localhost:3000` to view the application.
+5. Open your browser and visit `http://localhost:5127` to view the application.
 
 ## Technologies Used
 
