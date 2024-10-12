@@ -1,8 +1,58 @@
-# React + Vite
+# Kanban Board Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Kanban Board application allows users to create, manage, and track tasks through different stages of a workflow. Built with React, it provides a user-friendly interface to enhance productivity and task management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Create Tasks**: Add new tasks with unique names.
+- **Manage Stages**: Move tasks between stages: Backlog, In Progress, and Done.
+- **Delete Tasks**: Remove tasks from the board.
+
+## Screenshots
+
+![Kanban Board](public/demo/interface.png)  
+*Figure 1: Kanban Board Interface*
+
+## Live Demo
+
+You can view the live demo of the Kanban application [here](https://your-deployment-link.com).
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/kanban-app.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd kanban-app
+   ```
+
+3. **Install the dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Run the application**:
+   ```bash
+   npm start
+   ```
+
+5. Open your browser and visit `http://localhost:3000` to view the application.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **JavaScript**: Programming language for web development
+
+## Contributing
+
+If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
